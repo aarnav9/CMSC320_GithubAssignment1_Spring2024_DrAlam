@@ -1,0 +1,3 @@
+Why are you interested in taking CMSC320?
+
+I think learning about data science and analytics in general can be very useful. This class will help me learn python and the use cases of python in the data science field.
